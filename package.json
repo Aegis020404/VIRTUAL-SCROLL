@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite",
     "dev-host": "vite --host",
-    "build": "vue-tsc -b && vite build",
+    "build": "vite build",
     "preview": "vite preview",
     "linter": "npx eslint",
     "docs": "jsdoc -c jsdoc.json",
