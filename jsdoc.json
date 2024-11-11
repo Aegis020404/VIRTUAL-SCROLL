@@ -1,0 +1,20 @@
+{
+  "source": {
+    "include": [
+      "src"
+    ],
+    "includePattern": "\\.(js)$"
+  },
+  "plugins": [
+    "plugins/markdown",
+    "node_modules/better-docs/category"
+  ],
+  "opts": {
+    "destination": "./docs",
+    "recurse": true,
+    "template": "node_modules/better-docs",
+    "readme": "README.md",
+    "verbose": true
+  },
+  "sourceType": "module"
+}
