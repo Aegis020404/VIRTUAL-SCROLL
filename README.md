@@ -1,4 +1,4 @@
-# VIRTUAL-SCROLL
+# INFINITE-SCROLL
 
 ## Project Structure
 
